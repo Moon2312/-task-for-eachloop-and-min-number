@@ -1,0 +1,1 @@
+# -task-for-eachloop-and-min-number
